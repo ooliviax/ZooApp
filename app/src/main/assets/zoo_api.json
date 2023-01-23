@@ -1,0 +1,154 @@
+{
+  "animals":[
+    {
+      "id":1,
+      "name":"Lew Afrykański",
+      "description":{
+        "type":"ssak",
+        "text":"Lew jest bardzo dużym kotem, ustępującym rozmiarami jedynie największym podgatunkom tygrysa. Masywne ciało z czterema potężnymi, silnie umięśnionymi łapami, zakończonymi ostrymi pazurami, wyposażone w silne szczęki jest doskonale przystosowane do powalania i zabijania nawet bardzo dużych zwierząt."
+      },
+      "details":{
+        "maleWeight":"190kg",
+        "femaleWeight":"130kg",
+        "lifespan":"16 lat",
+        "periodOfPregnancy":"110 dni"
+      },
+      "img":"https://zasoby.ekologia.pl/artykulyNew/27356/xxl/shutterstock-314138519_800x600.jpg"
+    },
+    {
+      "id":2,
+      "name":"Słoń Afrykański",
+      "description":{
+        "type":"ssak",
+        "text":"Słoń afrykański jest największym zwierzęciem żyjącym na lądzie. Samica może mierzyć do 2,5 metra, a samiec nawet ponad 4 metry wysokości. Są one zatem dwa razy wyższe od człowieka. Słoń może ważyć nawet do sześciu ton, czyli tyle co autobus!"
+      },
+      "details":{
+        "maleWeight":"6000kg",
+        "femaleWeight":"3000kg",
+        "lifespan":"70 lat",
+        "periodOfPregnancy":"22 miesiące"
+      },
+      "img":"https://smoglab.pl/wp-content/uploads/2021/03/Juz-wszystkie-gatunki-sloni-na-planecie-sa-zagrozone-wyginieciem.-Jeden-krytycznie-620x420@2x.jpg"
+    },
+    {
+      "id":3,
+      "name":"Żyrafa sawannowa",
+      "description":{
+        "type":"ssak",
+        "text":"Żyrafa północna, znana również jako żyrafa trójrożna, jest gatunkiem żyrafy, G. camelopardalis i pochodzi z Afryki Północnej."
+      },
+      "details":{
+        "maleWeight":"6000kg",
+        "femaleWeight":"3000kg",
+        "lifespan":"70 lat",
+        "periodOfPregnancy":"22 miesiące"
+      },
+      "img":"https://worldanimal.prv.pl/static/creator/userdata/dd/dd22811fb7ee93353c39315d29da1fb9c53ad5cd0b804d9f9a0eac605732fe3d_big.jpg"
+    },
+    {
+      "id":4,
+      "name":"Zebra pręgowana",
+      "description":{
+        "type":"ssak",
+        "text":"Gatunek ssaka z rodziny koniowatych, należący do grupy zebr. Sierść tułowia ubarwiona w pionowe czarno-białe pasy, zakrzywiające się na biodrach i barkach, na nogach przechodzące w poziome, sięgające kopyt. Brzuch jest biały, grzywa dwubarwa."
+      },
+      "details":{
+        "maleWeight":"450kg",
+        "femaleWeight":"350kg",
+        "lifespan":"20 lat",
+        "periodOfPregnancy":"13 miesięcy"
+      },
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5VtNekfwQPAU7uQ1Vx3WhALuTGArhGHXeQ&usqp=CAU"
+    },
+    {
+      "id":5,
+      "name":"Nosorożec czarny",
+      "description":{
+        "type":"ssak",
+        "text":"Nosorożec czarny, znany także jako: nosorożec spiczastonosy, nosorożec zwyczajny – gatunek ssaka kopytnego z rodziny nosorożcowatych, występujący w południowej i wschodniej Afryce, na obszarze Angoli."
+      },
+      "details":{
+        "maleWeight":"1400kg",
+        "femaleWeight":"800kg",
+        "lifespan":"50 lat",
+        "periodOfPregnancy":"15 miesięcy"
+      },
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/BlackRhino-USFWS.jpg/240px-BlackRhino-USFWS.jpg"
+    },
+    {
+      "id":6,
+      "name":"Tygrys azjatycki",
+      "description":{
+        "type":"ssak",
+        "text":"Gatunek dużego, drapieżnego ssaka łożyskowego z podrodziny panter w rodzinie kotowatych, największego ze współczesnych pięciu gatunków dzikich kotów z rodzaju Panthera, jeden z największych drapieżników lądowych."
+      },
+      "details":{
+        "maleWeight":"310kg",
+        "femaleWeight":"170kg",
+        "lifespan":"10 lat",
+        "periodOfPregnancy":"112 dni"
+      },
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2MTwvCqYBhHzKGgUIYBULUHuIeaYLcaq42og-bG5h2U0rSE8lZ41IUODxBsfhh9ia0_Y&usqp=CAU"
+    },
+    {
+      "id":7,
+      "name":"Papuga Ara",
+      "description":{
+        "type":"ptak",
+        "text":"Rodzaj dużych ptaków z podrodziny papug neotropikalnych (Arinae) w obrębie rodziny papugowatych (Psittacidae)."
+      },
+      "details":{
+        "maleWeight":"1708g",
+        "femaleWeight":"285g",
+        "lifespan":"50 lat",
+        "periodOfPregnancy":"2 do 4 jaj, które są wysiadywane przez 27 dni"
+      },
+      "img":"https://zoonews.pl/wp-content/uploads/2021/07/papuga-ara.jpg"
+    },
+    {
+      "id":8,
+      "name":"Krokodyl nilowy",
+      "description":{
+        "type":"gad",
+        "text":"Jeden z trzech gatunków krokodyli występujących w Afryce. Drugi pod względem wielkości, zaraz po krokodylu różańcowym współcześnie żyjący gad i analogicznie drugi w rodzinie krokodylowatych. Może osiągać długość 5,5 metrów"
+      },
+      "details":{
+        "maleWeight":"750kg",
+        "femaleWeight":"250kg",
+        "lifespan":"60 lat",
+        "periodOfPregnancy":"Młode wykluwają się z jaj po 60-90 dniach"
+      },
+      "img":"https://static5.depositphotos.com/1041766/482/i/600/depositphotos_4821789-stock-photo-nile-crocodile.jpg"
+    },
+    {
+      "id":9,
+      "name":"Koala australijski",
+      "description":{
+        "type":"ssak",
+        "text":"Gatunek ssaka z rodziny koalowatych, nadrzewne zwierzę roślinożerne, zamieszkujące wschodnią Australię. Koala schodzi na ziemię tylko po to, aby przejść na kolejne drzewo. Żyje samotnie lub w niewielkich grupach złożonych z samca i kilku samic."
+      },
+      "details":{
+        "maleWeight":"14,9kg",
+        "femaleWeight":"11kg",
+        "lifespan":"18 lat",
+        "periodOfPregnancy":"36 dni"
+      },
+      "img":"https://sadurski.com/wp-content/uploads/2018/11/mis-koala-australijski-australia-torbacze-1.jpg"
+    },
+    {
+      "id":10,
+      "name":"Wydra europejska",
+      "description":{
+        "type":"ssak",
+        "text":"Jedyny gatunek drapieżnego ssaka ziemnowodnego z rodziny łasicowatych rodzaju wydra, którego przedstawiciele żyją w Polsce w stanie naturalnym."
+      },
+      "details":{
+        "maleWeight":"12kg",
+        "femaleWeight":"7kg",
+        "lifespan":"15 lat",
+        "periodOfPregnancy":"64 dni"
+      },
+      "img":"https://zasoby.ekologia.pl/animal/a/305/wydra_2.jpg"
+    }
+  ]
+}
